@@ -25,3 +25,11 @@ This bot implements a delta-neutral trading strategy:
 ```bash
 git clone https://github.com/your-username/lighter-volume-bot.git
 cd lighter-volume-bot
+```
+
+Install dependencies: 
+```
+pip install -r requirements.txt
+
+```
+
